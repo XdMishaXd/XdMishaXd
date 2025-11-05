@@ -57,11 +57,11 @@ I'm a **Backend Developer** passionate about building robust, scalable, and high
 
 </div>
 
-## 📈 Contribution Graph
+## 📈 LeetCode Stats
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XdMishaXd&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF)](https://github.com/XdMishaXd)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Z1dit?theme=dark&font=Karma&ext=heatmap)
 
 </div>
 
