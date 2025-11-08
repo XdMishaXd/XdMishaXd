@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+Systems;Computer+science+student)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Building+Scalable+Systems;Computer+Science+Student)
 
 </div>
 
@@ -24,6 +24,7 @@ I'm a **Backend Developer** passionate about building robust, scalable, and high
 
 ### Databases & Caching
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -42,6 +43,8 @@ I'm a **Backend Developer** passionate about building robust, scalable, and high
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XdMishaXd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=XdMishaXd&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XdMishaXd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
 
@@ -76,5 +79,7 @@ I'm a **Backend Developer** passionate about building robust, scalable, and high
 <div align="center">
   
 ### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+![Visitor Count](https://profile-counter.glitch.me/XdMishaXd/count.svg)
 
 </div>
