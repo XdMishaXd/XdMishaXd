@@ -80,6 +80,4 @@ I'm a **Backend Developer** passionate about building robust, scalable, and high
   
 ### ⚡ "Code is like humor. When you have to explain it, it's bad." – Cory House
 
-![Visitor Count](https://profile-counter.glitch.me/XdMishaXd/count.svg)
-
 </div>
