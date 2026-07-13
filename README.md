@@ -42,17 +42,17 @@ I'm a **Backend Developer** passionate about building robust, scalable, and high
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XdMishaXd&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=XdMishaXd&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XdMishaXd&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=XdMishaXd&layout=compact&theme=radical)
 
 </div>
 
-## 🏆 GitHub Trophies
+## 🔥 GitHub Streak
 
 <div align="center">
-  
-![Trophy](https://github-profile-trophy.vercel.app/?username=XdMishaXd&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=XdMishaXd&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF)
 
 </div>
 
